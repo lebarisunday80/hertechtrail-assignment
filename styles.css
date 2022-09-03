@@ -1,0 +1,38 @@
+body{
+    margin: 0%;
+    padding: 0px;
+}
+.navbar{
+    display: flex;
+    position: sticky;
+    border: 0px;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.nav-links>a{
+    margin:0px 10px;
+    text-decoration: none;
+    color:gray;
+
+}
+.nav-header>h1{
+    font-size: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+p{
+    font-size: 18px;
+    color: blue;
+}
+h3{
+    color: blue;
+    font-size: 18px;
+}
+.social-icons>img{
+    display: flex;
+    
+    
+}
